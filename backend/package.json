@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "后端工作空间执行 `cargo add actix-web async-graphql rbatis` 后的输出, 说明了哪些功能是默认启用的, 哪些功能没有默认启用.",
+  "main": "node.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
